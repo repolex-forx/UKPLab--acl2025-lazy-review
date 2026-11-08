@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/acl2025-lazy-review/commit/08b01465c8dde1e9768f6bcc003cd42a6cb4e8ef",
       "git:hexsha": "08b01465c8dde1e9768f6bcc003cd42a6cb4e8ef",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
