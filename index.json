@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "acl2025-lazy-review",
+  "versions": [
+    {
+      "commit": "08b01465c8dde1e9768f6bcc003cd42a6cb4e8ef",
+      "tag": "",
+      "parsed_at": "2026-11-08T18:53:16.216501+00:00"
+    }
+  ]
+}
